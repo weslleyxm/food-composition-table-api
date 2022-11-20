@@ -9,7 +9,7 @@ The API provides a REST-based API that allows access to databases in a simple an
 ## Return Examples 
 Currently the database contains more than a thousand items
 + The list of items can be obtained using
-```https://foodcomposition.herokuapp.com/item```
+https://foodcomposition.herokuapp.com/item
 
 ```
 {
@@ -35,7 +35,7 @@ Currently the database contains more than a thousand items
 ```
 
 + A specific item can be searched by name or id
-```https://foodcomposition.herokuapp.com/item/Macaxeira```
+https://foodcomposition.herokuapp.com/item/Macaxeira
 
 ```
 {
